@@ -1,0 +1,10 @@
+# Masjid Al Huda (Helsinki Islamic Center) – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Al Huda (Helsinki Islamic Center)"
+description: "Masjid Al Huda (Helsinki Islamic Center), Veturitori 2, 00520 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-al-huda-helsinki-islamic-center     # tiedosto _moskeijat/masjid-al-huda-helsinki-islamic-center.md
+
+# Osoite: https://suomen-moskeijat.github.io/helsinki-islamic-center/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/helsinki-islamic-center"
